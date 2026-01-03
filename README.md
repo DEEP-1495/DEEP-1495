@@ -1,16 +1,44 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Deep Sinha</h1>
+<h3 align="center">Computer Science Engineering Student | Full-Stack Learner</h3>
 
-<!--
-**DEEP-1495/DEEP-1495** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
+- 🎓 B.E. CSE student (6th semester)
+- 💻 Interested in Web Development & Software Engineering
+- 🌱 Currently learning React, Node.js
+- 🧠 Strong foundation in programming & DSA
+- 📫 Reach me at: deepsinha535@email.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔗 Connect with me
+<p align="center">
+  <a href="https://www.linkedin.com/in/deep-sinha-006b55251/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/DEEP-1495">
+    <img src="https://img.shields.io/badge/GitHub-black?logo=github"/>
+  </a>
+</p>
+
+---
+
+### 🛠 Languages & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,react,node,mysql,git,postman,mongodb" />
+</p>
+
+---
+
+### 📌 Featured Projects
+- 🚀 **Course Selling App** – Backend logic with JavaScript
+- ⚛️ **React Project Demo** – Frontend with React
+- 📝 **Todo App** – CRUD operations and state handling
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DEEP-1495&show_icons=true&theme=tokyonight" />
+</p>
