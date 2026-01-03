@@ -4,7 +4,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 B.E. CSE student (6th semester)
+- 🎓 B.E. CSE student (8th semester)
 - 💻 Interested in Web Development & Software Engineering
 - 🌱 Currently learning React, Node.js
 - 🧠 Strong foundation in programming & DSA
