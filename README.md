@@ -36,13 +36,6 @@
 - ⚛️ **React Project Demo** – Frontend with React
 - 📝 **Todo App** – CRUD operations and state handling
 
----
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DEEP-1495&show_icons=true&theme=tokyonight&cache_seconds=86400" />
-
-</p>
 
 
 
